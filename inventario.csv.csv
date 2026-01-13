@@ -1,0 +1,6 @@
+id,producto,categoria,marca,cantidad,unidad
+1,Tequila Blanco,Tequila,Don Julio,4,botellas
+2,Vodka,Vodka,Absolut,2,botellas
+3,Ron Añejo,Ron,Bacardi,1,botellas
+4,Whisky,Whisky,Jack Daniels,0.5,botellas
+5,Gin,Gin,Bombay,3,botellas
